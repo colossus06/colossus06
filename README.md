@@ -6,13 +6,6 @@
 
 
 
-- 💞️ I’m looking to collaborate on security *️⃣ cloud domains.
-- 📫 How to reach me?
-
-Here is my **linkedin** and **blog site**:
-
-  * https://www.linkedin.com/in/gulcan-topcu-415630220/
-  * https://www.gulcantopcu.ga/
 
 
 #                                                        
@@ -20,7 +13,7 @@ Here is my **linkedin** and **blog site**:
 
 ![Happy (3)](https://user-images.githubusercontent.com/96833570/180644619-bda57bd6-f4e5-4071-9670-3a209deeddb1.png)
 
-💞️ I work hard to become this:
+💞️ Work hard to become this:
 
 
 
@@ -28,4 +21,4 @@ Here is my **linkedin** and **blog site**:
 ![Happy (4)](https://user-images.githubusercontent.com/96833570/180644668-7debf2cd-a799-45cc-beea-69c530003afa.png)
 
 
-🌐 let's connect: https://www.linkedin.com/in/gulcan-topcu-415630220/
+
