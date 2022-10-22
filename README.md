@@ -1,6 +1,6 @@
 
 
-#                                                         <p align="center">  👋 Hi, I’m Gulcan </p>
+#                                                         <p align="center">  👋 Hi </p>
 - 👀 I’m currently working on: GCP, Microsoft, AWS. Studying on: Cloud Engineer *️⃣ Security Engineer *️⃣ DevOps *️⃣ Python *️⃣ Cloud Resume Challenge *️⃣ Cybersecurity *️⃣ OSINT
 
 
