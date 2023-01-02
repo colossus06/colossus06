@@ -2,7 +2,7 @@
 
 #                                                         <p align="center">  👋 Hi </p>
 - 👀 I’m currently working on: 
-  - Az-204 and 400
+  - Az-400
   - and <strong>DevOPS!</strong>
 
 
