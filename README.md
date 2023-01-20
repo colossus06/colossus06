@@ -7,4 +7,4 @@
 
 
 
-Visit my [portfolio site](https://www.gulcantopcu.ml/)*️⃣
+Visit my [portfolio site](devtechops.dev)*️⃣
