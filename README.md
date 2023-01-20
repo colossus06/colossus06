@@ -6,6 +6,3 @@
   - and <strong>DevOPS!</strong>
 
 
-
-Visit my portfolio site: [portfolio site](www.devtechops.dev)*️⃣
-
