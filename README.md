@@ -7,5 +7,5 @@
 
 
 
-Visit my ![portfolio site](devtechops.dev)*️⃣
+Visit my portfolio site: devtechops.dev*️⃣
 
