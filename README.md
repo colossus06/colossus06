@@ -8,3 +8,9 @@ I got my Microsoft Certified DevOps Engineer Expert Certificate!
   - <strong>DevOPS</strong> projects!
 
 
+  
+[![My Skills](https://skillicons.dev/icons?i=linux,kubernetes,jenkins,ansible,python,git)](https://skillicons.dev)
+  
+
+
+[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,ableton)](https://skillicons.dev)
