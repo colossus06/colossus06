@@ -21,4 +21,20 @@ I got my Microsoft Certified DevOps Engineer Expert Certificate!
   </a>
 </p>  
 
+### Reach out to me!
+
+[linkedin]: https://www.linkedin.com/in/gulcan-topcu-415630220/
+
+[email]: topcug@devtechops.dev
+
+[site]: www.devtechops.dev
+
+
+[<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/linkedin.svg" />][Linkedin] 
+
+
+<br />
+
+<br />
+
 
