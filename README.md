@@ -9,8 +9,16 @@ I got my Microsoft Certified DevOps Engineer Expert Certificate!
 
 
   
-[![My Skills](https://skillicons.dev/icons?i=linux,kubernetes,jenkins,ansible,python,git,aws,azure)](https://skillicons.dev)
-  
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=linux,kubernetes,jenkins,ansible,python,git,aws,azure,docker" />
+  </a>
+</p>  
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,figma,ableton" />
+  </a>
+</p>  
 
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,figma,ableton)](https://skillicons.dev)
