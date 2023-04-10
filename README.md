@@ -38,3 +38,5 @@ I got my Microsoft Certified DevOps Engineer Expert Certificate!
 <br />
 
 
+
+Read my latest article on [linkedin](https://www.linkedin.com/pulse/deploy-python-flask-app-ecs-fargate-gulcan-topcu)
