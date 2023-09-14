@@ -23,16 +23,19 @@
   </a>
 </p>  
 
-### Reach out to me!
+## Reach out to me!
 
-[linkedin]: https://www.linkedin.com/in/gulcan-topcu-415630220/
+* [linkedin](https://www.linkedin.com/in/gulcan-topcu/)
 
-[email]: topcug@devtechops.dev
+* [email](topcug@devtechops.dev)
 
-[site]: www.devtechops.dev
+* [site](www.devtechops.dev)
+
+* [linopsae](linopsae.devtechops.dev)
+
+![image](https://github.com/colossus06/colossus06/assets/96833570/41843191-1107-45f0-83ba-6f51d020f96e)
 
 
-[<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/linkedin.svg" />][Linkedin] 
 
 
 <br />
@@ -41,4 +44,12 @@
 
 
 
-Read my latest article on [linkedin](https://www.linkedin.com/pulse/deploy-python-flask-app-ecs-fargate-gulcan-topcu)
+## Read my latest articles on linkedin!
+
+* [📝 How to Set Up Elasticsearch, Logstash, and Kibana Stack Locally 🚀](https://www.linkedin.com/pulse/how-set-up-elasticsearch-logstash-kibana-stack-locally-gulcan-topcu/?trackingId=yG3HYHoHRMSgwPwB3mqxiw%3D%3D)
+
+* [📏Create your Custom VPC and Deploy a 3 Tier Webapp with AWS,EC2, ALB,RDS 🚀](https://www.linkedin.com/pulse/create-your-custom-vpc-deploy-3-tier-webapp-awsec2-albrds-topcu/?trackingId=yG3HYHoHRMSgwPwB3mqxiw%3D%3D)
+
+* [Level Up Your DevOps Skills With the Cloud Resume Challenge](https://www.linkedin.com/pulse/level-up-your-devops-skills-cloud-resume-challenge-gulcan-topcu/?trackingId=yG3HYHoHRMSgwPwB3mqxiw%3D%3D)
+
+* [Deploy a Python Flask App to ECS Fargate](https://www.linkedin.com/pulse/deploy-python-flask-app-ecs-fargate-gulcan-topcu/?trackingId=yG3HYHoHRMSgwPwB3mqxiw%3D%3D)
