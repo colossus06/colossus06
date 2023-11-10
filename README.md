@@ -3,10 +3,9 @@
 #                                                         <p align="center">  👋 Hi </p>
 
 - 👀 I’m currently working on:
-  - CSA
+  - CKAD
   - Terraform
   - AWS workshops
-  - CKA 
   - <strong>DevOPS</strong> projects!
 
 
