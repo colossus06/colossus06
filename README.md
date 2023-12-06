@@ -1,54 +1,23 @@
 
 
-#                                                         <p align="center">  👋 Hi </p>
 
-- 👀 I’m currently working on:
-  - CKAD
-  - Terraform
-  - AWS workshops
-  - <strong>DevOPS</strong> projects!
-
-
+<h1 align="center">
+<img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="50px" height="50px"></img> Hi, I'm Gulcan
   
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linux,kubernetes,jenkins,ansible,python,git,aws,azure,docker" />
-  </a>
-</p>  
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,figma,ableton" />
-  </a>
-</p>  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Robot-Bold&size=30&color=330033&center=true&vCenter=true&width=900&height=110&lines=Devops+/+Cloud+Engineer;Love+Automation+and+Python;Studying+CKAD;ah+i'm+also+a+super+mom💜)](https://git.io/typing-svg)
 
-## Reach out to me!
 
-* [linkedin](https://www.linkedin.com/in/gulcan-topcu/)
-
-* [email](topcug@devtechops.dev)
-
-* [site](www.devtechops.dev)
-
-* [linopsae](linopsae.devtechops.dev)
-
-![image](https://github.com/colossus06/colossus06/assets/96833570/41843191-1107-45f0-83ba-6f51d020f96e)
+<img align="center" src="https://giphy.com/static/img/zoomies.gif" alt="this is me" width="320" />
 
 
 
 
-<br />
+<h1 align="center"> Reach out to me
 
-<br />
+[![GitHub](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/colossus06)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/gulcan-topcu/)
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:topcug@devtechops.dev)
 
 
-
-## Read my latest articles on linkedin!
-
-* [📝 How to Set Up Elasticsearch, Logstash, and Kibana Stack Locally 🚀](https://www.linkedin.com/pulse/how-set-up-elasticsearch-logstash-kibana-stack-locally-gulcan-topcu/?trackingId=yG3HYHoHRMSgwPwB3mqxiw%3D%3D)
-
-* [📏Create your Custom VPC and Deploy a 3 Tier Webapp with AWS,EC2, ALB,RDS 🚀](https://www.linkedin.com/pulse/create-your-custom-vpc-deploy-3-tier-webapp-awsec2-albrds-topcu/?trackingId=yG3HYHoHRMSgwPwB3mqxiw%3D%3D)
-
-* [Level Up Your DevOps Skills With the Cloud Resume Challenge](https://www.linkedin.com/pulse/level-up-your-devops-skills-cloud-resume-challenge-gulcan-topcu/?trackingId=yG3HYHoHRMSgwPwB3mqxiw%3D%3D)
-
-* [Deploy a Python Flask App to ECS Fargate](https://www.linkedin.com/pulse/deploy-python-flask-app-ecs-fargate-gulcan-topcu/?trackingId=yG3HYHoHRMSgwPwB3mqxiw%3D%3D)
+![Dino](https://raw.githubusercontent.com/wangningkai/wangningkai/master/assets/dino.gif)
